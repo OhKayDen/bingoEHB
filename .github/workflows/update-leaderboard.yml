@@ -1,0 +1,37 @@
+name: Update Leaderboard
+
+on:
+  schedule:
+    - cron: '0 * * * *'  
+  workflow_dispatch: 
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install httpx asyncio  # Add any other required dependencies
+
+      - name: Run Python Script
+        run: python update_leaderboard.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add leaderboard.json
+          git commit -m "Updated leaderboard data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
