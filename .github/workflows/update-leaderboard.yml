@@ -24,7 +24,7 @@ jobs:
           pip install httpx asyncio  # Add any other required dependencies
 
       - name: Run Python Script
-        run: python update_leaderboard.py
+        run: python update-leaderboard.py
 
       - name: Commit and Push Changes
         run: |
