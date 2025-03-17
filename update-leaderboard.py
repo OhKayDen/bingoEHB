@@ -22,15 +22,25 @@ def load_usernames():
     return teams
 
 
-async def get_ehb(username, start_date, end_date):
-    async with httpx.AsyncClient() as client:
-        response = await client.get(
-            f"{BASE_URL}/players/{username}/gained",
-            params={"startDate": start_date, "endDate": end_date}
-        )
-        if response.status_code == 200:
-            return response.json()
-        return None
+async def get_ehb(username, start_date, end_date, retries=3, delay=5):
+    async with httpx.AsyncClient(timeout=30.0) as client: 
+        for attempt in range(retries):
+            try:
+                response = await client.get(
+                    f"{BASE_URL}/players/{username}/gained",
+                    params={"startDate": start_date, "endDate": end_date}
+                )
+                response.raise_for_status()
+                return response.json()
+
+            except (httpx.HTTPStatusError, httpx.RequestError, httpx.TimeoutException) as e:
+                print(f"Attempt {attempt+1} failed for {username}: {e}")
+                if attempt < retries - 1: 
+                    await asyncio.sleep(delay) 
+                else:
+                    print(f"Final failure for {username}, skipping.")
+
+    return None 
 
 async def calculate_ehb(username):
     if username.lower() == "oh kay den": 
