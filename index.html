@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #121212; /* Dark background */
+            color: white; /* White text */
+            margin: 0;
+            padding: 0;
+            text-align: center; /* Center-align all text by default */
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #444;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #333;
+        }
+        .collapsible {
+            background-color: #333; /* Dark button background */
+            color: white; /* White text */
+            cursor: pointer;
+            padding: 15px;
+            width: 100%;
+            border: none;
+            text-align: center; /* Center-align button text */
+            outline: none;
+            font-size: 16px;
+            margin: 5px 0;
+        }
+        .collapsible:after {
+            content: '\002B';
+            font-size: 18px;
+            color: #bbb;
+            float: right;
+        }
+        .active:after {
+            content: '\2212'; /* Change to minus when active */
+        }
+        .content {
+            padding: 0 18px;
+            display: none;
+            overflow: hidden;
+            background-color: #1f1f1f; /* Slightly lighter background for content */
+        }
+        h1 {
+            font-size: 2.5em;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>2025 Guardian Bingo EHB Leaderboards</h1>
+
+    <!-- Team Leaderboard -->
+    <button type="button" class="collapsible">Team Leaderboard</button>
+    <div class="content">
+        <table>
+            <thead>
+                <tr>
+                    <th>Team Name</th>
+                    <th>Score (EHB)</th>
+                </tr>
+            </thead>
+            <tbody id="team-leaderboard">
+                <!-- Dynamic team rows will be inserted here -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Individual Leaderboard -->
+    <button type="button" class="collapsible">Individual Leaderboard</button>
+    <div class="content">
+        <table>
+            <thead>
+                <tr>
+                    <th>Member Name</th>
+                    <th>Team</th>
+                    <th>Score (EHB)</th>
+                </tr>
+            </thead>
+            <tbody id="individual-leaderboard">
+                <!-- Dynamic individual rows will be inserted here -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        // Update the URL to the raw URL of the leaderboards.json file in your GitHub repository
+        fetch('https://raw.githubusercontent.com/OhKayDen/bingoEHB/main/leaderboard.json')
+            .then(response => response.json())
+            .then(data => {
+                // Populate Team Leaderboard
+                const teamTableBody = document.getElementById("team-leaderboard");
+                Object.entries(data.teams).forEach(([teamName, score]) => {
+                    const row = document.createElement("tr");
+                    row.innerHTML = `
+                        <td>${teamName}</td>
+                        <td>${score}</td>
+                    `;
+                    teamTableBody.appendChild(row);
+                });
+
+                // Populate Individual Leaderboard
+                const individualTableBody = document.getElementById("individual-leaderboard");
+                data.individuals.forEach(individual => {
+                    const row = document.createElement("tr");
+                    row.innerHTML = `
+                        <td>${individual.username}</td>
+                        <td>${individual.team}</td>
+                        <td>${individual.ehb}</td>
+                    `;
+                    individualTableBody.appendChild(row);
+                });
+            })
+            .catch(error => {
+                console.error("Error loading JSON data: ", error);
+            });
+
+        // Collapsible Functionality
+        const collapsibles = document.getElementsByClassName("collapsible");
+        for (let i = 0; i < collapsibles.length; i++) {
+            collapsibles[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                const content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                } else {
+                    content.style.display = "block";
+                }
+            });
+        }
+    </script>
+
+</body>
+</html>
