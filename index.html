@@ -114,7 +114,7 @@
 
             try {
                 // Fetch the leaderboards from the server
-                const response = await fetch('/leaderboards');
+                const response = await fetch('leaderboard.json');
                 const data = await response.json();
 
                 // Update the leaderboard display
