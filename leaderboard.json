@@ -1,16 +1,16 @@
 {
   "teams": {
-    "Sick": 89.73,
-    "Naaz": 86.2,
+    "Sick": 90.56,
+    "Naaz": 86.26,
     "Nadia": 74.93,
-    "Charlie": 62.07,
-    "Rubiks": 37.37
+    "Charlie": 63.77,
+    "Rubiks": 37.66
   },
   "individuals": [
     {
       "username": "Oh Kay Den",
       "team": "Naaz",
-      "ehb": 24.67
+      "ehb": 24.73
     },
     {
       "username": "blowtob",
@@ -80,12 +80,12 @@
     {
       "username": "jynx",
       "team": "Charlie",
-      "ehb": 7.91
+      "ehb": 8.75
     },
     {
       "username": "shugo tenshi",
       "team": "Charlie",
-      "ehb": 0.44
+      "ehb": 1.3
     },
     {
       "username": "iter five",
@@ -110,7 +110,7 @@
     {
       "username": "Gazal",
       "team": "Sick",
-      "ehb": 7.73
+      "ehb": 8.56
     },
     {
       "username": "MF Sofaking",
@@ -180,7 +180,7 @@
     {
       "username": "isseioppai",
       "team": "Rubiks",
-      "ehb": 3.32
+      "ehb": 3.61
     },
     {
       "username": "dojuu",
