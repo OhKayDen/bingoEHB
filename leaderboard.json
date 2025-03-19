@@ -1,9 +1,9 @@
 {
   "teams": {
-    "Sick": 94.49,
+    "Sick": 95.34,
     "Naaz": 90.18,
-    "Nadia": 82.78,
-    "Charlie": 65.27,
+    "Nadia": 82.81,
+    "Charlie": 66.68,
     "Rubiks": 40.26
   },
   "individuals": [
@@ -85,7 +85,7 @@
     {
       "username": "shugo tenshi",
       "team": "Charlie",
-      "ehb": 1.8
+      "ehb": 3.21
     },
     {
       "username": "iter five",
@@ -115,7 +115,7 @@
     {
       "username": "MF Sofaking",
       "team": "Sick",
-      "ehb": 5.52
+      "ehb": 6.37
     },
     {
       "username": "cba to tob",
@@ -235,7 +235,7 @@
     {
       "username": "rangeforlyfe",
       "team": "Nadia",
-      "ehb": 0.74
+      "ehb": 0.77
     }
   ]
 }
