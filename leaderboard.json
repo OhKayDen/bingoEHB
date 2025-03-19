@@ -1,16 +1,16 @@
 {
   "teams": {
     "Sick": 90.56,
-    "Naaz": 86.26,
+    "Naaz": 86.69,
     "Nadia": 74.93,
     "Charlie": 63.77,
-    "Rubiks": 37.66
+    "Rubiks": 37.87
   },
   "individuals": [
     {
       "username": "Oh Kay Den",
       "team": "Naaz",
-      "ehb": 24.73
+      "ehb": 25.16
     },
     {
       "username": "blowtob",
@@ -185,7 +185,7 @@
     {
       "username": "dojuu",
       "team": "Rubiks",
-      "ehb": 0.95
+      "ehb": 1.16
     },
     {
       "username": "chef98",
