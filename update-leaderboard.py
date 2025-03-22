@@ -8,7 +8,7 @@ NAMES_FILE = "names.txt"
 OUTPUT_FILE = "leaderboard.json"
 
 START_DATE = "2025-03-14T16:00:00.000Z"
-
+START_DATE_OKD = "2025-03-12T16:00:00.000Z" #manual start date change due to missing WOM update - 0 gains prior to bingo
 def round_to_next_hour(dt):
     return (dt + timedelta(hours=1)).replace(minute=0, second=0, microsecond=0)
 
@@ -32,16 +32,12 @@ async def get_ehb(username, start_date, end_date):
         return None
 
 async def calculate_ehb(username):
+    end_date = convert_to_utc_string(round_to_next_hour(datetime.now(timezone.utc)))
     if username.lower() == "oh kay den": 
-        end_time = datetime.now(timezone.utc)
-        start_time = end_time - timedelta(days=7)
-
-        start_date = convert_to_utc_string(start_time)
-        end_date = convert_to_utc_string(end_time)
+        start_date = START_DATE_OKD
     else:
-        end_date = convert_to_utc_string(round_to_next_hour(datetime.now(timezone.utc)))
         start_date = START_DATE
-
+        
     gains = await get_ehb(username, start_date, end_date)
 
     if not gains or "data" not in gains:
