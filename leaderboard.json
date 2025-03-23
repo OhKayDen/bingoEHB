@@ -1,8 +1,8 @@
 {
   "teams": {
-    "Naaz": 154.84,
+    "Naaz": 155.28,
     "Sick": 142.73,
-    "Nadia": 133.27,
+    "Nadia": 133.74,
     "Charlie": 109.44,
     "Rubiks": 70.78
   },
@@ -20,7 +20,7 @@
     {
       "username": "ANBJordyBoy",
       "team": "Naaz",
-      "ehb": 34.73
+      "ehb": 35.17
     },
     {
       "username": "YugeCaulk",
@@ -220,7 +220,7 @@
     {
       "username": "p15m",
       "team": "Nadia",
-      "ehb": 7.56
+      "ehb": 7.61
     },
     {
       "username": "I hawk tuahh",
@@ -235,7 +235,7 @@
     {
       "username": "rangeforlyfe",
       "team": "Nadia",
-      "ehb": 2.89
+      "ehb": 3.31
     }
   ]
 }
