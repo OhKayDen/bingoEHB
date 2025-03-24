@@ -21,7 +21,7 @@ def load_usernames():
     return teams
 
 
-async def get_ehb(username, start_date, end_date):
+async def get_ehb(username, start_date, end_date, timeout=30):
     async with httpx.AsyncClient() as client:
         response = await client.get(
             f"{BASE_URL}/players/{username}/gained",
