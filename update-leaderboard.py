@@ -22,7 +22,7 @@ def load_usernames():
 
 
 async def get_ehb(username, start_date, end_date, timeout=30):
-    async with httpx.AsyncClient() as client:
+    async with httpx.AsyncClient(timeout=30) as client:
         response = await client.get(
             f"{BASE_URL}/players/{username}/gained",
             params={"startDate": start_date, "endDate": end_date}
