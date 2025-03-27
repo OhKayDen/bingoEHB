@@ -1,7 +1,7 @@
 {
   "teams": {
-    "Naaz": 204.09,
-    "Sick": 201.28,
+    "Naaz": 204.63,
+    "Sick": 202.3,
     "Nadia": 174.59,
     "Charlie": 160.4,
     "Rubiks": 83.58
@@ -45,7 +45,7 @@
     {
       "username": "bye ya",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 0.54
     },
     {
       "username": "8t1w",
@@ -120,12 +120,12 @@
     {
       "username": "cba to tob",
       "team": "Sick",
-      "ehb": 22.31
+      "ehb": 22.73
     },
     {
       "username": "natattack99",
       "team": "Sick",
-      "ehb": 32.99
+      "ehb": 33.59
     },
     {
       "username": "speedstickoi",
