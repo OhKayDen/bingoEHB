@@ -1,5 +1,5 @@
 {
-    "Naaz": ["Oh Kay Den", "blowtob", "ANBJordyBoy", "YugeCaulk", "toonaml","sunhye", "carelynn", "bye ya", "8t1w"],
+    "Naaz": ["Oh Kay Den", "howrd", "rubberbanjo", "YugeCaulk", "toonaml","sunhye", "carelynn", "bye ya", "8t1w"],
     "Charlie": ["baltimore md", "zardua", "letharil", "saucy sofia", "mom is ready","jynx", "shugo tenshi", "iter five", "bloodyxnj"],
     "Sick": ["sickisbad", "Pwxn", "Gazal", "MF Sofaking", "cba to tob","natattack99", "speedstickoi", "picklednut", "yn d"],
     "Rubiks": ["rubiksbewb", "LeafYesOk", "Grunt_boi", "liloyangboy", "toobit","kniferage6", "mr reporter", "isseioppai", "dojuu", "chef98"],
