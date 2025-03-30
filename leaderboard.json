@@ -1,9 +1,9 @@
 {
   "teams": {
+    "Naaz": 244.03,
     "Sick": 235.52,
     "Nadia": 215.76,
     "Charlie": 182.92,
-    "Naaz": 152.44,
     "Rubiks": 89.87
   },
   "individuals": [
@@ -13,14 +13,14 @@
       "ehb": 71.5
     },
     {
-      "username": "blowtob",
+      "username": "howrd",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 51.79
     },
     {
-      "username": "ANBJordyBoy",
+      "username": "rubberbanjo",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 39.8
     },
     {
       "username": "YugeCaulk",
