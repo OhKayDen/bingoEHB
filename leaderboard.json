@@ -1,10 +1,10 @@
 {
   "teams": {
-    "Sick": 303.95,
+    "Sick": 304.27,
     "Nadia": 278.27,
     "Naaz": 274.49,
     "Charlie": 212.58,
-    "Rubiks": 99.17
+    "Rubiks": 99.36
   },
   "individuals": [
     {
@@ -110,7 +110,7 @@
     {
       "username": "Gazal",
       "team": "Sick",
-      "ehb": 44.68
+      "ehb": 45.0
     },
     {
       "username": "MF Sofaking",
@@ -175,7 +175,7 @@
     {
       "username": "mr reporter",
       "team": "Rubiks",
-      "ehb": 13.47
+      "ehb": 13.66
     },
     {
       "username": "isseioppai",
