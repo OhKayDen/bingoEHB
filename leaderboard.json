@@ -1,10 +1,10 @@
 {
   "teams": {
     "Sick": 327.03,
-    "Nadia": 294.24,
+    "Nadia": 294.74,
     "Naaz": 278.25,
-    "Charlie": 217.92,
-    "Rubiks": 106.75
+    "Charlie": 218.06,
+    "Rubiks": 107.13
   },
   "individuals": [
     {
@@ -85,7 +85,7 @@
     {
       "username": "shugo tenshi",
       "team": "Charlie",
-      "ehb": 11.7
+      "ehb": 11.84
     },
     {
       "username": "iter five",
@@ -175,7 +175,7 @@
     {
       "username": "mr reporter",
       "team": "Rubiks",
-      "ehb": 18.34
+      "ehb": 18.72
     },
     {
       "username": "isseioppai",
@@ -210,7 +210,7 @@
     {
       "username": "olyae",
       "team": "Nadia",
-      "ehb": 58.11
+      "ehb": 58.61
     },
     {
       "username": "muse",
