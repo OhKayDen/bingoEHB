@@ -3,7 +3,7 @@
     "Sick": 333.34,
     "Nadia": 307.68,
     "Naaz": 282.56,
-    "Charlie": 222.49,
+    "Charlie": 222.7,
     "Rubiks": 107.42
   },
   "individuals": [
@@ -90,7 +90,7 @@
     {
       "username": "iter five",
       "team": "Charlie",
-      "ehb": 2.16
+      "ehb": 2.37
     },
     {
       "username": "bloodyxnj",
