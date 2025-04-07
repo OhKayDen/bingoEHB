@@ -2,15 +2,15 @@
   "teams": {
     "Sick": 344.47,
     "Nadia": 318.63,
-    "Naaz": 290.46,
-    "Charlie": 227.35,
+    "Naaz": 290.77,
+    "Charlie": 228.63,
     "Rubiks": 108.53
   },
   "individuals": [
     {
       "username": "Oh Kay Den",
       "team": "Naaz",
-      "ehb": 83.69
+      "ehb": 84.0
     },
     {
       "username": "howrd",
@@ -80,7 +80,7 @@
     {
       "username": "jynx",
       "team": "Charlie",
-      "ehb": 19.5
+      "ehb": 20.78
     },
     {
       "username": "shugo tenshi",
