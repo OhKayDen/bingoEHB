@@ -1,9 +1,9 @@
 {
   "teams": {
-    "Sick": 488.46,
+    "Sick": 488.55,
     "Nadia": 461.35,
     "Naaz": 365.46,
-    "Charlie": 352.01,
+    "Charlie": 352.42,
     "Rubiks": 160.37
   },
   "individuals": [
@@ -55,7 +55,7 @@
     {
       "username": "baltimore md",
       "team": "Charlie",
-      "ehb": 141.41
+      "ehb": 141.82
     },
     {
       "username": "zardua",
@@ -130,7 +130,7 @@
     {
       "username": "speedstickoi",
       "team": "Sick",
-      "ehb": 86.76
+      "ehb": 86.85
     },
     {
       "username": "picklednut",
