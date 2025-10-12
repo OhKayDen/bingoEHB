@@ -1,6 +1,6 @@
 {
   "teams": {
-    "Sick": 743.44,
+    "Sick": 743.5,
     "Nadia": 614.82,
     "Charlie": 509.96,
     "Naaz": 400.27,
@@ -135,7 +135,7 @@
     {
       "username": "picklednut",
       "team": "Sick",
-      "ehb": 0
+      "ehb": 0.06
     },
     {
       "username": "yn d",
