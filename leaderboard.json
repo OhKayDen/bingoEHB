@@ -1,26 +1,26 @@
 {
   "teams": {
-    "Sick": 787.1,
-    "Nadia": 623.69,
-    "Charlie": 402.35,
-    "Naaz": 287.57,
-    "Rubiks": 234.82
+    "Sick": 594.83,
+    "Charlie": 517.97,
+    "Nadia": 345.97,
+    "Naaz": 233.42,
+    "Rubiks": 227.31
   },
   "individuals": [
     {
       "username": "Oh Kay Den",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 89.25
     },
     {
       "username": "howrd",
       "team": "Naaz",
-      "ehb": 65.49
+      "ehb": 0
     },
     {
       "username": "rubberbanjo",
       "team": "Naaz",
-      "ehb": 41.36
+      "ehb": 0
     },
     {
       "username": "YugeCaulk",
@@ -30,17 +30,17 @@
     {
       "username": "toonaml",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 2
     },
     {
       "username": "sunhye",
       "team": "Naaz",
-      "ehb": 60.0
+      "ehb": 0
     },
     {
       "username": "carelynn",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 21.45
     },
     {
       "username": "bye ya",
@@ -60,7 +60,7 @@
     {
       "username": "zardua",
       "team": "Charlie",
-      "ehb": 0
+      "ehb": 115.62
     },
     {
       "username": "letharil",
@@ -100,12 +100,12 @@
     {
       "username": "sickisbad",
       "team": "Sick",
-      "ehb": 25.78
+      "ehb": 0
     },
     {
       "username": "Pwxn",
       "team": "Sick",
-      "ehb": 166.49
+      "ehb": 0
     },
     {
       "username": "Gazal",
@@ -180,7 +180,7 @@
     {
       "username": "isseioppai",
       "team": "Rubiks",
-      "ehb": 7.51
+      "ehb": 0
     },
     {
       "username": "dojuu",
@@ -200,32 +200,32 @@
     {
       "username": "tommy terror",
       "team": "Nadia",
-      "ehb": 124.57
+      "ehb": 0
     },
     {
       "username": "alexyae",
       "team": "Nadia",
-      "ehb": 234.74
+      "ehb": 235.06
     },
     {
       "username": "olyae",
       "team": "Nadia",
-      "ehb": 98.55
+      "ehb": 0
     },
     {
       "username": "muse",
       "team": "Nadia",
-      "ehb": 17.04
+      "ehb": 0
     },
     {
       "username": "p15m",
       "team": "Nadia",
-      "ehb": 7.61
+      "ehb": 0
     },
     {
       "username": "I hawk tuahh",
       "team": "Nadia",
-      "ehb": 30.27
+      "ehb": 0
     },
     {
       "username": "but spit",
