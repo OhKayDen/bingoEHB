@@ -3,7 +3,7 @@
     "Sick": 795.37,
     "Nadia": 638.98,
     "Charlie": 531.52,
-    "Naaz": 334.78,
+    "Naaz": 400.27,
     "Rubiks": 234.82
   },
   "individuals": [
@@ -15,7 +15,7 @@
     {
       "username": "howrd",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 65.49
     },
     {
       "username": "rubberbanjo",
