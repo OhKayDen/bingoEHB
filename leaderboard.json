@@ -1,8 +1,8 @@
 {
   "teams": {
+    "Sick": 858.4,
     "Nadia": 670.39,
     "Charlie": 594.17,
-    "Sick": 588.11,
     "Naaz": 420.07,
     "Rubiks": 237.29
   },
@@ -115,7 +115,7 @@
     {
       "username": "MF Sofaking",
       "team": "Sick",
-      "ehb": 0
+      "ehb": 270.29
     },
     {
       "username": "cba to tob",
