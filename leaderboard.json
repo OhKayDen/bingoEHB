@@ -1,10 +1,10 @@
 {
   "teams": {
-    "Charlie": 579.66,
-    "Nadia": 572.0,
-    "Sick": 540.44,
-    "Naaz": 270.71,
-    "Rubiks": 147.35
+    "Sick": 865.47,
+    "Nadia": 695.2,
+    "Charlie": 594.17,
+    "Naaz": 422.68,
+    "Rubiks": 237.29
   },
   "individuals": [
     {
@@ -35,7 +35,7 @@
     {
       "username": "sunhye",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 81.26
     },
     {
       "username": "carelynn",
@@ -45,12 +45,12 @@
     {
       "username": "bye ya",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 1.78
     },
     {
       "username": "8t1w",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 68.93
     },
     {
       "username": "baltimore md",
@@ -85,7 +85,7 @@
     {
       "username": "shugo tenshi",
       "team": "Charlie",
-      "ehb": 0
+      "ehb": 14.51
     },
     {
       "username": "iter five",
@@ -105,7 +105,7 @@
     {
       "username": "Pwxn",
       "team": "Sick",
-      "ehb": 0
+      "ehb": 170.22
     },
     {
       "username": "Gazal",
@@ -125,7 +125,7 @@
     {
       "username": "natattack99",
       "team": "Sick",
-      "ehb": 0
+      "ehb": 154.81
     },
     {
       "username": "speedstickoi",
@@ -150,17 +150,17 @@
     {
       "username": "LeafYesOk",
       "team": "Rubiks",
-      "ehb": 0
+      "ehb": 30.26
     },
     {
       "username": "Grunt_boi",
       "team": "Rubiks",
-      "ehb": 0
+      "ehb": 1.04
     },
     {
       "username": "liloyangboy",
       "team": "Rubiks",
-      "ehb": 0
+      "ehb": 58.64
     },
     {
       "username": "toobit",
@@ -205,12 +205,12 @@
     {
       "username": "alexyae",
       "team": "Nadia",
-      "ehb": 296.83
+      "ehb": 298.27
     },
     {
       "username": "olyae",
       "team": "Nadia",
-      "ehb": 0
+      "ehb": 121.76
     },
     {
       "username": "muse",
