@@ -1,9 +1,9 @@
 {
   "teams": {
-    "Sick": 930.68,
+    "Sick": 931.06,
     "Nadia": 740.87,
     "Charlie": 594.37,
-    "Naaz": 448.74,
+    "Naaz": 449.74,
     "Rubiks": 252.37
   },
   "individuals": [
@@ -15,7 +15,7 @@
     {
       "username": "howrd",
       "team": "Naaz",
-      "ehb": 72.31
+      "ehb": 73.31
     },
     {
       "username": "rubberbanjo",
@@ -115,7 +115,7 @@
     {
       "username": "MF Sofaking",
       "team": "Sick",
-      "ehb": 268.47
+      "ehb": 268.85
     },
     {
       "username": "cba to tob",
