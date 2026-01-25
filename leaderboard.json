@@ -1,10 +1,10 @@
 {
   "teams": {
-    "Sick": 695.91,
-    "Nadia": 635.05,
-    "Naaz": 498.04,
-    "Charlie": 475.05,
-    "Rubiks": 128.44
+    "Sick": 515.39,
+    "Nadia": 497.37,
+    "Charlie": 428.28,
+    "Naaz": 417.47,
+    "Rubiks": 202.67
   },
   "individuals": [
     {
@@ -30,7 +30,7 @@
     {
       "username": "toonaml",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 1.46
     },
     {
       "username": "sunhye",
@@ -50,7 +50,7 @@
     {
       "username": "8t1w",
       "team": "Naaz",
-      "ehb": 82.03
+      "ehb": 0
     },
     {
       "username": "baltimore md",
@@ -75,7 +75,7 @@
     {
       "username": "mom is ready",
       "team": "Charlie",
-      "ehb": 19.93
+      "ehb": 0
     },
     {
       "username": "jynx",
@@ -85,12 +85,12 @@
     {
       "username": "shugo tenshi",
       "team": "Charlie",
-      "ehb": 14.5
+      "ehb": 0
     },
     {
       "username": "iter five",
       "team": "Charlie",
-      "ehb": 12.34
+      "ehb": 0
     },
     {
       "username": "bloodyxnj",
@@ -100,7 +100,7 @@
     {
       "username": "sickisbad",
       "team": "Sick",
-      "ehb": 27.0
+      "ehb": 0
     },
     {
       "username": "Pwxn",
@@ -120,12 +120,12 @@
     {
       "username": "cba to tob",
       "team": "Sick",
-      "ehb": 0
+      "ehb": 24.6
     },
     {
       "username": "natattack99",
       "team": "Sick",
-      "ehb": 178.12
+      "ehb": 0
     },
     {
       "username": "speedstickoi",
@@ -150,7 +150,7 @@
     {
       "username": "LeafYesOk",
       "team": "Rubiks",
-      "ehb": 0
+      "ehb": 38.16
     },
     {
       "username": "Grunt_boi",
@@ -170,7 +170,7 @@
     {
       "username": "kniferage6",
       "team": "Rubiks",
-      "ehb": 3.01
+      "ehb": 0
     },
     {
       "username": "mr reporter",
@@ -185,7 +185,7 @@
     {
       "username": "dojuu",
       "team": "Rubiks",
-      "ehb": 0
+      "ehb": 39.08
     },
     {
       "username": "chef98",
@@ -210,7 +210,7 @@
     {
       "username": "olyae",
       "team": "Nadia",
-      "ehb": 137.68
+      "ehb": 0
     },
     {
       "username": "muse",
