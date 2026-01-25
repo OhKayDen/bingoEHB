@@ -1,9 +1,9 @@
 {
   "teams": {
-    "Nadia": 759.17,
+    "Nadia": 765.75,
     "Sick": 720.51,
     "Charlie": 605.25,
-    "Naaz": 417.47,
+    "Naaz": 499.5,
     "Rubiks": 254.47
   },
   "individuals": [
@@ -50,7 +50,7 @@
     {
       "username": "8t1w",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 82.03
     },
     {
       "username": "baltimore md",
@@ -235,7 +235,7 @@
     {
       "username": "rangeforlyfe",
       "team": "Nadia",
-      "ehb": 0
+      "ehb": 6.58
     }
   ]
 }
