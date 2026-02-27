@@ -1,9 +1,9 @@
 {
   "teams": {
     "Sick": 1122.1,
+    "Nadia": 780.75,
     "Charlie": 664.71,
     "Naaz": 523.57,
-    "Nadia": 424.59,
     "Rubiks": 260.88
   },
   "individuals": [
@@ -205,7 +205,7 @@
     {
       "username": "alexyae",
       "team": "Nadia",
-      "ehb": 0
+      "ehb": 372.82
     },
     {
       "username": "olyae",
@@ -215,7 +215,7 @@
     {
       "username": "muse",
       "team": "Nadia",
-      "ehb": 16.66
+      "ehb": 0
     },
     {
       "username": "p15m",
