@@ -1,9 +1,9 @@
 {
   "teams": {
-    "Sick": 1200.67,
-    "Nadia": 799.99,
-    "Charlie": 690.27,
-    "Naaz": 567.18,
+    "Sick": 826.4,
+    "Nadia": 807.58,
+    "Charlie": 651.42,
+    "Naaz": 526.12,
     "Rubiks": 262.13
   },
   "individuals": [
@@ -20,7 +20,7 @@
     {
       "username": "rubberbanjo",
       "team": "Naaz",
-      "ehb": 41.06
+      "ehb": 0
     },
     {
       "username": "YugeCaulk",
@@ -75,7 +75,7 @@
     {
       "username": "mom is ready",
       "team": "Charlie",
-      "ehb": 24.35
+      "ehb": 0
     },
     {
       "username": "jynx",
@@ -85,7 +85,7 @@
     {
       "username": "shugo tenshi",
       "team": "Charlie",
-      "ehb": 14.5
+      "ehb": 0
     },
     {
       "username": "iter five",
@@ -100,12 +100,12 @@
     {
       "username": "sickisbad",
       "team": "Sick",
-      "ehb": 41.1
+      "ehb": 0
     },
     {
       "username": "Pwxn",
       "team": "Sick",
-      "ehb": 333.17
+      "ehb": 0
     },
     {
       "username": "Gazal",
@@ -220,7 +220,7 @@
     {
       "username": "p15m",
       "team": "Nadia",
-      "ehb": 0
+      "ehb": 7.59
     },
     {
       "username": "I hawk tuahh",
