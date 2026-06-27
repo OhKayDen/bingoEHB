@@ -1,8 +1,8 @@
 {
   "teams": {
-    "Charlie": 770.17,
-    "Naaz": 627.7,
-    "Sick": 437.58,
+    "Naaz": 0,
+    "Charlie": 0,
+    "Sick": 0,
     "Rubiks": 0,
     "Nadia": 0
   },
@@ -15,57 +15,57 @@
     {
       "username": "howrd",
       "team": "Naaz",
-      "ehb": 78.75
+      "ehb": 0
     },
     {
       "username": "rubberbanjo",
       "team": "Naaz",
-      "ehb": 41.06
+      "ehb": 0
     },
     {
       "username": "YugeCaulk",
       "team": "Naaz",
-      "ehb": 54.24
+      "ehb": 0
     },
     {
       "username": "toonaml",
       "team": "Naaz",
-      "ehb": 1.46
+      "ehb": 0
     },
     {
       "username": "sunhye",
       "team": "Naaz",
-      "ehb": 187.27
+      "ehb": 0
     },
     {
       "username": "carelynn",
       "team": "Naaz",
-      "ehb": 57.05
+      "ehb": 0
     },
     {
       "username": "bye ya",
       "team": "Naaz",
-      "ehb": 37.21
+      "ehb": 0
     },
     {
       "username": "8t1w",
       "team": "Naaz",
-      "ehb": 170.66
+      "ehb": 0
     },
     {
       "username": "baltimore md",
       "team": "Charlie",
-      "ehb": 463.78
+      "ehb": 0
     },
     {
       "username": "zardua",
       "team": "Charlie",
-      "ehb": 148.33
+      "ehb": 0
     },
     {
       "username": "letharil",
       "team": "Charlie",
-      "ehb": 18.43
+      "ehb": 0
     },
     {
       "username": "saucy sofia",
@@ -75,37 +75,37 @@
     {
       "username": "mom is ready",
       "team": "Charlie",
-      "ehb": 24.35
+      "ehb": 0
     },
     {
       "username": "jynx",
       "team": "Charlie",
-      "ehb": 71.6
+      "ehb": 0
     },
     {
       "username": "shugo tenshi",
       "team": "Charlie",
-      "ehb": 14.5
+      "ehb": 0
     },
     {
       "username": "iter five",
       "team": "Charlie",
-      "ehb": 13.16
+      "ehb": 0
     },
     {
       "username": "bloodyxnj",
       "team": "Charlie",
-      "ehb": 16.02
+      "ehb": 0
     },
     {
       "username": "sickisbad",
       "team": "Sick",
-      "ehb": 85.97
+      "ehb": 0
     },
     {
       "username": "Pwxn",
       "team": "Sick",
-      "ehb": 351.61
+      "ehb": 0
     },
     {
       "username": "Gazal",
