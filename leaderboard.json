@@ -3,8 +3,8 @@
     "Charlie": 1078.91,
     "Naaz": 733.97,
     "Sick": 487.94,
-    "Nadia": 6.58,
-    "Rubiks": 0
+    "Rubiks": 0,
+    "Nadia": 0
   },
   "individuals": [
     {
@@ -235,7 +235,7 @@
     {
       "username": "rangeforlyfe",
       "team": "Nadia",
-      "ehb": 6.58
+      "ehb": 0
     }
   ]
 }
