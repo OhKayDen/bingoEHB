@@ -1,7 +1,7 @@
 {
   "teams": {
     "Charlie": 1145.46,
-    "Naaz": 748.12,
+    "Naaz": 748.33,
     "Sick": 491.02,
     "Rubiks": 0,
     "Nadia": 0
@@ -10,7 +10,7 @@
     {
       "username": "Oh Kay Den",
       "team": "Naaz",
-      "ehb": 0
+      "ehb": 0.21
     },
     {
       "username": "howrd",
